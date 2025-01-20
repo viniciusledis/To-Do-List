@@ -35,4 +35,4 @@ Este é um site de **To-Do List** desenvolvido com **React**. O aplicativo permi
 4. Inicie o servidor de desenvolvimento:
    `npm run dev`
 
-5. Abra seu navegador e acesse [http://localhost:3000](http://localhost:3000).
+5. Abra seu navegador e acesse [http://localhost:5173](http://localhost:5173).
