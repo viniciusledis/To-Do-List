@@ -33,10 +33,6 @@ Este é um site de **To-Do List** desenvolvido com **React**. O aplicativo permi
    `npm install`
 
 4. Inicie o servidor de desenvolvimento:
-   `npm start`
+   `npm run dev`
 
 5. Abra seu navegador e acesse [http://localhost:3000](http://localhost:3000).
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
