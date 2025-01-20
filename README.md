@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List
 
 Este é um site de **To-Do List** desenvolvido com **React**. O aplicativo permite adicionar e remover itens de uma lista de tarefas. Desenvolvido unicamente para estudo.
 
@@ -24,15 +24,23 @@ Este é um site de **To-Do List** desenvolvido com **React**. O aplicativo permi
 ## Como Rodar o Projeto
 
 1. Clone o repositório:
-   `git clone https://github.com/viniciusledis/to-do-list.git`
+   ```bash
+   git clone https://github.com/viniciusledis/to-do-list.git
+   ```
 
-2. Navegue até o diretório do projeto:
-   `cd to-do-list`
+3. Navegue até o diretório do projeto:
+   ``` bash
+   cd to-do-list
+   ```
 
-3. Instale as dependências:
-   `npm install`
+5. Instale as dependências:
+   ``` bash
+   npm install
+   ```
 
-4. Inicie o servidor de desenvolvimento:
-   `npm run dev`
+7. Inicie o servidor de desenvolvimento:
+   ``` bash
+   npm run dev
+   ```
 
-5. Abra seu navegador e acesse [http://localhost:5173](http://localhost:5173).
+9. Abra seu navegador e acesse [http://localhost:5173](http://localhost:5173).
